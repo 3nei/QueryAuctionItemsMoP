@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: QueryAuctionItemsMoP
+## Version: 1.0
+## Author: 3nei
+## Notes: /fullscan SMSG_AUCTION_REPLICATE_RESPONSE tester
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+QueryAuctionItemsMoP.lua
+
